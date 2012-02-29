@@ -24,7 +24,7 @@ If you open up Wikipedia, for many pages you’ll see this kind of layout. On th
 * Please keep these requirements in mind:
 * Do not spend a lot of time creating an exact replica of Wikipedia. We’re using Wikipedia as an example and not as a requirement. Your page can use any colors, sizes or content you wish.
 * Please do not use HTML &lt;table> tags as the means for laying out the page.
-* Instead, use CSS code wit &lt;div> tags to control the page layout.
+* Instead, use CSS code with &lt;div> tags to control the page layout.
 
 ## Exercise Two: Create a web page that uses right side navigation
 
@@ -57,7 +57,8 @@ Feel free to be as creative as you want! You can position images, text paragraph
 
 Now that you’ve practiced creating a few simple web pages, let’s go ahead and try something more ambitious: a blog page design!
 
-* The only requirements are:
+The only requirements are:
+
 * An article page: this is the page that will display one of your blog articles.
 * An “about” page: this will show some information about you... whatever you would like.
 * A photo of yourself
